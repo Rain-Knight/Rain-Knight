@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rain Knight</h1>
-<h4 align="center">A passionate data analyst with a strong analytical mindset. I thrive on using programming skills to extract actionable insights from large datasets, identifying patterns and driving business growth. Skilled in data processing and reporting, I aim to enhance efficiency and accuracy. Let's connect to explore opportunities and drive positive change through data-driven strategies.</h4>
+<h1>Hi 👋, I'm Rain Knight</h1>
+<h4>A passionate data analyst with a strong analytical mindset. I thrive on using programming skills to extract actionable insights from large datasets, identifying patterns and driving business growth. Skilled in data processing and reporting, I aim to enhance efficiency and accuracy. Let's connect to explore opportunities and drive positive change through data-driven strategies.</h4>
 
 - 🔭 I’m currently working on **Exploratory analysis of the decrease in Smoking rates in New Zealand**
 
